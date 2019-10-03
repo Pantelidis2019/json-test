@@ -1,13 +1,13 @@
 {
   "PayRequests": [
     {
-    "id": 1,
-    "date": "2019-12-31 23:59:59",
-    "price": 123.45,
-    "status": 0,
-    "msg_pay_request": "...",
-    "status_descr": "...",
-    "msg_pay_success": "..."
+    "TransactionID": 1,
+    "TransactionDate": "2019-12-31 23:59:59",
+    "Price": 123.45,
+    "Status": 0,
+    "MsgPayRequest": "...",
+    "StatusDesc": "...",
+    "MsgPaySuccess": "..."
     }
   ]
 }
